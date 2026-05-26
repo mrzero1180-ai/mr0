@@ -1,0 +1,6 @@
+{
+  "name": "Telephony Security Analyzer",
+  "description": "Technical analysis, interactive threat simulation, and AI-powered risk auditing of call-based attack vectors and zero-trust telephony security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
